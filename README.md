@@ -29,7 +29,7 @@
 
 # objetivos <a name="id01"></a>
 
-Aprimorar o estudo e prática de HTML, visando estruturar de forma semântica cada sessão de uma página web.
+Estruturar o código HTML de forma semântica.
 
 
 
