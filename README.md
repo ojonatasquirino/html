@@ -54,7 +54,8 @@ Aqui pretendo fornecer um espaço para aprofundar meus conhecimentos em HTML, ex
 <div  align='center'> 
 
  [![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-![curso](https://img.shields.io/badge/onebitcode-0D1117?style=for-the-badge&logo=Databricks&logoColor=red)
+![curso](https://img.shields.io/badge/onebitcode-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)
+![curso](https://img.shields.io/badge/artigos_e_livros-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)
 </div>
 
 # ambiente de codificação <a name="id05"></a>
