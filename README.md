@@ -29,14 +29,26 @@
 
 # objetivos <a name="id01"></a>
 
-Estruturar o código HTML de forma semântica.
+Este repositório documenta meu estudo de HTML (Hypertext Markup Language), uma linguagem de marcação fundamental para o desenvolvimento web. Meus principais objetivos ao estudar HTML são:
 
+1. **Compreender os fundamentos**: Adquirir um entendimento sólido dos elementos básicos e da estrutura de um documento HTML, incluindo tags, atributos e sua hierarquia.
 
+2. **Desenvolver páginas web simples**: Ser capaz de criar páginas web estáticas e simples utilizando HTML para estruturar o conteúdo e definir sua apresentação.
+
+3. **Aprender boas práticas**: Familiarizar-me com as melhores práticas de codificação em HTML, incluindo semântica apropriada, acessibilidade e otimização para mecanismos de busca.
+
+4. **Integrar com outras tecnologias**: Compreender como o HTML se integra com outras tecnologias web, como CSS (Cascading Style Sheets) para estilização e JavaScript para interatividade e dinamismo.
+
+5. **Preparar-me para projetos futuros**: Desenvolver uma base sólida em HTML que me permita avançar para projetos mais complexos e para a criação de aplicações web dinâmicas construídas com JavaScript e React.
 
 # descrição detalhada <a name="id01.01"></a>
 
 
-Aqui pretendo fornecer um espaço para aprofundar meus conhecimentos em HTML, explorando desde os conceitos básicos até técnicas mais avançadas com especial atenção à qualidade semântica do código. A qualidade semântica é fundamental para garantir que as páginas web sejam bem interpretadas por navegadores, mecanismos de busca e tecnologias assistivas, além de melhorar a manutenibilidade e acessibilidade do projeto.
+Aqui pretendo fornecer um espaço para aprofundar meus conhecimentos em HTML, explorando desde os conceitos básicos até técnicas mais avançadas com especial atenção à qualidade semântica do código, principalemnte para ter uma maior facilidade de entender sua relação com o JavaScript e React. 
+
+<br>
+
+A qualidade semântica é fundamental para garantir que as páginas web sejam bem interpretadas por navegadores, mecanismos de busca e tecnologias assistivas, além de melhorar a manutenibilidade e acessibilidade de projetos.
 
 
 # tecnologias de estudo <a name="id04"></a>
@@ -44,6 +56,7 @@ Aqui pretendo fornecer um espaço para aprofundar meus conhecimentos em HTML, ex
 <div  align='center'> 
 
 [![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=red)]()
+![curso](https://img.shields.io/badge/browser-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)
  
 [comment]: <> (link para adicionar badges: https://dev.to/envoy_/150-badges-for-github-pnk)
 
@@ -96,9 +109,9 @@ git clone https://github.com/ojonatasquirino/estudos-html.git
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jonatasquirino/)
 <a href = "mailto:quirinoj02@gmail.com">
 ![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)</a>
-[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=054595)](https://twitter.com/ojonatasquirino)
+[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=fff)](https://twitter.com/ojonatasquirino)
 
-[![LinkMe](https://img.shields.io/badge/linkMe-0D1117?style=for-the-badge&logo=upcloud&logoColor=orange)](https://bit.ly/linkquirino)
+[![LinkMe](https://img.shields.io/badge/linkMe-0D1117?style=for-the-badge&logo=upcloud&logoColor=fff)](https://bit.ly/linkquirino)
 [![TabNews](https://img.shields.io/badge/tabnews-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)](https://www.tabnews.com.br/ojonatasquirino)
 [![github](https://img.shields.io/badge/Github-0D1117?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/ojonatasquirino)
 </div>
