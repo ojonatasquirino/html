@@ -44,11 +44,7 @@ Este repositório documenta meu estudo de HTML (Hypertext Markup Language), uma 
 # descrição detalhada <a name="id01.01"></a>
 
 
-Aqui pretendo fornecer um espaço para aprofundar meus conhecimentos em HTML, explorando desde os conceitos básicos até técnicas mais avançadas com especial atenção à qualidade semântica do código, principalemnte para ter uma maior facilidade de entender sua relação com o JavaScript e React. 
-
-<br>
-
-A qualidade semântica é fundamental para garantir que as páginas web sejam bem interpretadas por navegadores, mecanismos de busca e tecnologias assistivas, além de melhorar a manutenibilidade e acessibilidade de projetos.
+Aqui pretendo fornecer um espaço para aprofundar meus conhecimentos em HTML, explorando desde os conceitos básicos até técnicas mais avançadas com especial atenção à qualidade semântica do código, principalemnte para ter uma maior facilidade de entender sua relação com o JavaScript e React.  A qualidade semântica é fundamental para garantir que as páginas web sejam bem interpretadas por navegadores, mecanismos de busca e tecnologias assistivas, além de melhorar a manutenibilidade e acessibilidade de projetos.
 
 
 # tecnologias de estudo <a name="id04"></a>
