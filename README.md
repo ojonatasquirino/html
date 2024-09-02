@@ -44,8 +44,9 @@ Este repositório documenta meu estudo de HTML (Hypertext Markup Language), uma 
 # descrição detalhada <a name="id01.01"></a>
 
 
-Aqui pretendo fornecer um espaço para aprofundar meus conhecimentos em HTML, explorando desde os conceitos básicos até técnicas mais avançadas com especial atenção à qualidade semântica do código, principalemnte para ter uma maior facilidade de entender sua relação com o JavaScript e React.  A qualidade semântica é fundamental para garantir que as páginas web sejam bem interpretadas por navegadores, mecanismos de busca e tecnologias assistivas, além de melhorar a manutenibilidade e acessibilidade de projetos.
+Aqui pretendo fornecer um espaço para aprofundar meus conhecimentos em HTML, explorando desde os conceitos básicos até técnicas mais avançadas com especial atenção à qualidade semântica do código, principalemnte para ter uma maior facilidade de entender sua relação com o JavaScript e Frameworks.
 
+Toda a parte de aplicação deste estudo estará disponível no arquivo **<a href='./index.html'>index.html</a>**.
 
 # tecnologias de estudo <a name="id04"></a>
 
@@ -63,7 +64,6 @@ Aqui pretendo fornecer um espaço para aprofundar meus conhecimentos em HTML, ex
 <div  align='center'> 
 
  [![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-![curso](https://img.shields.io/badge/onebitcode-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)
 ![curso](https://img.shields.io/badge/artigos_e_livros-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)
 </div>
 
